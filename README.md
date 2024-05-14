@@ -6,7 +6,7 @@
 - 🌱 Always learning **to become a better professional.**
 - 👯 I enjoy collaborating on **projects that help shape a better future.**
 - 👨‍💻 My projects are available at [https://tragio.pt/](https://tragio.pt/)
-- 📝 Check some articles on [https://tragio.pt/articles/](https://tragio.pt/articles/)
+- 📝 Check some of my articles at [https://tragio.pt/articles/](https://tragio.pt/articles/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
