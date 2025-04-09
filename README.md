@@ -1,7 +1,7 @@
 <img height="150" src="https://tragio.pt/assets/images/logo.png"/>
 
 <h3>My name is Tragio Quievera 👋</h3>
-<h4>And I work as a Front-End Developer for 6+ years.</h4>
+<h4>And I work as a Full-Stack Developer for 7+ years.</h4>
 
 - 🌱 Always learning **to become a better professional.**
 - 👯 I enjoy collaborating on **projects that help shape a better future.**
